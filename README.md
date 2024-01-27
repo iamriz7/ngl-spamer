@@ -10,10 +10,6 @@ This script allows you to spam questions on NGL.link by sending requests with ra
 
 **Note:** Some messages may not be delivered to the recipient's inbox.
 
-## Disclaimer
-
-This script is for educational purposes only. Use it responsibly and at your own risk.
-
 ## Usage
 
 1. Clone the repository:
@@ -23,3 +19,7 @@ This script is for educational purposes only. Use it responsibly and at your own
    cd nglSpammer
    pip install -r requirements.txt
    python main.py
+
+## Disclaimer
+
+This script is for educational purposes only. Use it responsibly and at your own risk.
