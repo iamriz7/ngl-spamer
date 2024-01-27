@@ -1,6 +1,6 @@
 # NGL Spammer
 
-![NGL Spammer Banner](assets/banner.png)
+![NGL Spammer Banner](asset/banner.png)
 
 A Python script for spamming questions on NGL.link.
 
